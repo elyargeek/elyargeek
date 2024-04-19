@@ -9,5 +9,7 @@
   </a>
 </h1>
 
+========================================================================================
+
 - 🌱 I’m currently learning javaScript
 - 😄 Pronouns: Actually, I like coding and poetry
