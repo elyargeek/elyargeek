@@ -15,7 +15,7 @@
 - 😊 About Me : I am a computer engineering student - I love the web world and coding in it and I am also interested in poetry and music
 
 
-###my-Skills
+### my-Skills
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
