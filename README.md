@@ -1,11 +1,11 @@
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03e8fc&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 </a>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+dear+friend👋😊;I'm+eLyar;front+end+developer!;Nice+to+meet+you!&center=true&size=26&color=03e8fc&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+dear+friend👋😊;I'm+eLyar+🦉;front+end+developer!;Nice+to+meet+you!&center=true&size=26&color=ffffff&background=FFFFFF00">
   </a>
 </h1>
 
@@ -21,10 +21,12 @@
 
 ### my-Skills :
 <div align="left">  
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>   
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"/></a> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="#"> 
 
 
+
+
+
+<div align="center">
+  <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&text=🦅-nl-&fontSize=40&fontAlign=92" /></a>
+</div>
