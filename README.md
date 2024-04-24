@@ -11,10 +11,11 @@
 
 
 
-- 🦉 I am currently learning JavaScript
-- 😊 About Me : I am a computer engineering student - I love the web world and coding in it and I am also interested in poetry and music
+- 🦉 I am currently learning JavaScript And after that I go to learn React .
+- 😊 About Me : I am a computer engineering student - I love the web world and coding in it and I am also interested in the network and its subcategories .
+- 🔥 I am also interested in poetry and music
 
-<br><br><br><br>
+<br><br><br>
  my-Skills ✨
 -------
 <div align="center">  
