@@ -10,7 +10,7 @@
 </h1>
 
 
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp; Who am I :I am elyar and I from  Iran - I am 20 years old - I am a computer engineering student .
+- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp; Who am I : I am elyar and I from  Iran - I am 20 years old - I am a computer engineering student .
 - <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="25" /> About Me : I love the web world and coding in it and I am also interested in the network and its subcategories .
 - <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="25" /> I am currently learning JavaScript And after that I go to learn React .
 - <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> I am also interested in poetry and music .
