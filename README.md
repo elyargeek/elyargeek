@@ -46,8 +46,7 @@ my-Skills
 <div align="left">
 
 <p align="center" text-align="center"> <img src="https://komarev.com/ghpvc/?username=elyargeek&label=Profile%20views&color=0e75b6&style=flat" alt="andriypapirnyk" /> </p>
+<br><br>
 
 
-<div align="center">
-  <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=🦅-nl-&fontSize=40&fontAlign=92" /></a>
-</div>
+-------  
